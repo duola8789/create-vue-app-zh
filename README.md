@@ -1,18 +1,5 @@
 # My-Create-Vue-App
 
-## 使用方法
-
-配合[Vue-Cli-zh](https://github.com/duola8789/vue-cli-zh)，可以实现类似Vue-cli脚手架的使用方式
-
-推荐使用NPX拉取模板，避免污染全局环境：
-
-```BASH
-npx vue-cli-zh init [project_name]
-```
-
-`project_name`为新建项目的名称（目录名）
-
-
 ## 说明
 
 Vue项目脚手架，由Vue-cli 3创建而来。
@@ -24,6 +11,18 @@ Vue项目脚手架，由Vue-cli 3创建而来。
 3. Pre-Commit检查
 4. 自动注册`./src/pages`目录下的组件到路由，未匹配路径匹配NotFound组件
 5. Reset CSS
+
+## 使用方法
+
+配合[Vue-Cli-zh](https://github.com/duola8789/vue-cli-zh)，可以实现类似Vue-cli脚手架的使用方式
+
+推荐使用NPX拉取模板，避免污染全局环境：
+
+```BASH
+npx vue-cli-zh init [project_name]
+```
+
+`project_name`为新建项目的名称（目录名）
 
 ## 命令
 
